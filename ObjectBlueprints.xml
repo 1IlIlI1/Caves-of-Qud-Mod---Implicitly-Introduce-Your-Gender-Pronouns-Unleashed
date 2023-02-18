@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="BaseSightless" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,nonspecific,genericpersonalsingular,personalsingular,any,generate" />
+    <tag Name="RandomPronounSet" Value="genericpersonalsingular,personalsingular,personal,any,generate" />
+    <tag Name="RandomPronounSetChance" Value="25" />
+  </object>
+  <object Name="Mysterious Gunslinger" Load="Merge">
+    <tag Name="RandomGender" Value="personalsingular" />
+    <tag Name="RandomPronounSet" Value="genericpersonal,personal,any,generate,generate" />
+    <tag Name="RandomPronounSetChance" Value="20" />
+  </object>
+  <object Name="Psyberneticist" Load="Merge">
+    <tag Name="RandomPronounSetChance" Value="60" />
+  </object>
+  <object Name="Mechanimist" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,genericpersonalsingular,personalsingular,generate" />
+    <tag Name="RandomPronounSet" Value="genericpersonalsingular,personalsingular,personal,any,generate" />
+    <tag Name="RandomPronounSetChance" Value="10" />
+  </object>
+  <object Name="BaseArconaut" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,genericpersonalsingular,personalsingular" />
+    <tag Name="RandomPronounSet" Value="genericpersonalsingular,personalsingular" />
+    <tag Name="RandomPronounSetChance" Value="25" />
+  </object>
+  <object Name="Urshiib" Load="Merge">
+    <tag Name="RandomGender" Value="male,male,female,female,genericpersonalsingular,personalsingular" />
+  </object>
+  <object Name="JoppaZealot" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,genericpersonalsingular,personalsingular" />
+    <tag Name="RandomPronounSet" Value="genericpersonalsingular,personalsingular,generate" />
+    <tag Name="RandomPronounSetChance" Value="20" />
+  </object>
+  <object Name="BaseFarmer" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,genericpersonalsingular,personalsingular" />
+    <tag Name="RandomPronounSet" Value="genericpersonalsingular,personalsingular,generate" />
+    <tag Name="RandomPronounSetChance" Value="10" />
+  </object>
+  <object Name="Woodsprog" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,personalsingular" />
+  </object>
+  <object Name="BaseMerchant" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,genericpersonalsingular,personalsingular,personal,generate" />
+    <tag Name="RandomPronounSet" Value="genericpersonalsingular,personalsingular,generate" />
+    <tag Name="RandomPronounSetChance" Value="15" />
+  </object>
+  <object Name="Rhinox" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,genericsingular" />
+  </object>
+  <object Name="Alchemist" Load="Merge">
+    <tag Name="RandomGender" Value="male,female,genericpersonalsingular,personalsingular,personal,generate" />
+    <tag Name="RandomPronounSet" Value="genericpersonal,personal,any,generate" />
+    <tag Name="RandomPronounSetChance" Value="30" />
+  </object>
+</objects>

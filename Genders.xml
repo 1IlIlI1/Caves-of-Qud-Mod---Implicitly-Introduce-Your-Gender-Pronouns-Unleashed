@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<genders EnableSelection="true" EnableGeneration="true" GenerateGeneric="2" Load="Merge">
+	<gender Name="males" DoNotReplicateAsPronounSet="false" />
+	<gender Name="females" DoNotReplicateAsPronounSet="false" />
+</genders>
